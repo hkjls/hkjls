@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center" style="color:bue">Developer Django/React</h1>
+<h1 align="center" style="color:green">Developer Django/React</h1>
 
 ###
 
